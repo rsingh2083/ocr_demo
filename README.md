@@ -18,7 +18,7 @@ Perform the following steps for the OCR Demo:
 
 # Step 0:
 Clone this repository using git clone
-$ git clone 
+$ git clone https://github.com/shunyaos/ocr_demo.git
 
 # Step 1:
 
