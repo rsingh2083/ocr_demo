@@ -18,13 +18,16 @@ Perform the following steps for the OCR Demo:
 
 # Step 0:
 Clone this repository using git clone
+
 $ git clone https://github.com/shunyaos/ocr_demo.git
+
+$ cd ocr_demo
 
 # Step 1:
 
 Run the test_roi.py
 
-python3 test_roi.py
+$ python3 test_roi.py
 
 # Step 2:
 
